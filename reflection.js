@@ -1,0 +1,1 @@
+console.log("During intrams i played in the throwing event. It was fun and challenging for me because Because it's my first time playing again. I felt nervous at first, but I enjoyed it because I learned the value of sportsmanship and doing my best. Even if I didn't win, I am proud that I participated at the throwing event and represented the IICT.");
